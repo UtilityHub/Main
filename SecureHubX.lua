@@ -19,4 +19,4 @@ for k,v in next, games do
     	print(k)
         loadstring(game:HttpGet("https://raw.githubusercontent.com/SecureHubX/Main/main/SecureHubX" .. k))();
     end
-end,
+end
