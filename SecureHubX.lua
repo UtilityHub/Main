@@ -7,7 +7,7 @@
 ╚═════╝░╚══════╝░╚════╝░░╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝░╚═════╝░╚═════╝░  ╚═╝░░╚═╝
 ]]     
               
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua")))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/SecureHubX/Main/main/RebirthChampionsX")))()
 
 local games = {
     ["rebirth champions x"] = 8540346411,
