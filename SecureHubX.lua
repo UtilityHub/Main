@@ -7,10 +7,11 @@
 ╚═════╝░╚══════╝░╚════╝░░╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝░╚═════╝░╚═════╝░  ╚═╝░░╚═╝
 ]]     
               
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/SecureHubX/Main/main/RebirthChampionsX")))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua")))()
 
 local games = {
-    ["rebirthchampx"] = 8540346411,
+    ["rebirth champions x"] = 8540346411,
+    ["Clicker Simulator"] = 7560156054,
 }
 
 for k,v in next, games do 
