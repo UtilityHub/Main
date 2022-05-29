@@ -14,9 +14,5 @@ local games = {
     ["ClickerSimulator"] = 7560156054,
 }
 
-for k,v in next, games do 
-    if game.PlaceId == v then
-    	print(k)
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/SecureHubX/Main/main/%22..k))()%3B" .. k))();
-    end
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SecureHubX/Main/main/%22..k))()%3B" .. k))();
+
