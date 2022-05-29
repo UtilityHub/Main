@@ -17,6 +17,6 @@ local games = {
 for k,v in next, games do 
     if game.PlaceId == v then
     	print(k)
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/SecureHubX/Main/main/SecureHubX" .. k))();
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/SecureHubX/Main/main/%22..k))()%3B" .. k))();
     end
 end
