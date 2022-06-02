@@ -13,4 +13,4 @@ local games = {
     ["RebirthChampionsX"] = 8540346411,
     ["ClickerSimulator"] = 7560156054,
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SecureHubX/Main/main/VS-GIT"))()   
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UtilityHub/Main/main/VS-GIT"))()   
