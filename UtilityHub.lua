@@ -15,9 +15,6 @@ local games = {
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/UtilityHub/Main/main/VS-GIT"))()   
 
-
-
-
 local http = game:GetService('HttpService')
 local req = (syn and syn.request) or (http and http.request) or http_request
 if req then
